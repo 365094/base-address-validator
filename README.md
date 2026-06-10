@@ -69,3 +69,6 @@ Do not commit:
 ## License
 
 MIT
+
+## Security reminder
+Never commit private keys, seed phrases, API keys, or personal wallet files.
